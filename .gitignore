@@ -1,0 +1,7 @@
+*.d
+*.so
+*.pcm
+*.root
+sqlnet.log
+# !RunIISummer16NanoAODv6_DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_NANOAODSIM_PUMoriond17_Nano25Oct2019_102X_mcRun2_asymptotic_v7_ext1-v1.root
+# !SingleMuon_Run2016H-Nano25Oct2019-v1_NANOAOD.root
